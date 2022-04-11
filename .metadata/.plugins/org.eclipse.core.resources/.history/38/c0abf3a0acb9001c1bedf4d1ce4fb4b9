@@ -1,5 +1,5 @@
 //lambda
- //this is lambda code 
+ 
  interface Drawable2{  
     public void draw();  
 }  
