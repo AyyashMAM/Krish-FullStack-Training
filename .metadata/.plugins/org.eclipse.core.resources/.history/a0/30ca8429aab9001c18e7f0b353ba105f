@@ -1,0 +1,17 @@
+//lambda
+ 
+ interface Drawable2{  
+    public void draw();  
+}  
+  
+public class Lambda{  
+    public static void main(String[] args) {  
+        int height=10;  
+          
+        //with lambda  
+        Drawable2 d2=()->{  
+            System.out.println("Drawing "+height);  
+        };  
+        d2.draw();  
+    }  
+} 

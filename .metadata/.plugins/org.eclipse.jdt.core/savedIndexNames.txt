@@ -1,0 +1,5 @@
+INDEX VERSION 1.131+F:\Krish-FullStack-Training\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+2277810188.index
+2180491766.index
+4279790867.index

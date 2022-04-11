@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;FirstActivity.bfs.java&apos; to &apos;Graph.java&apos;&#x0D;&#x0A;- Original project: &apos;BFS &amp; DFS&apos;&#x0D;&#x0A;- Original element: &apos;FirstActivity.bfs.java&apos;&#x0D;&#x0A;- Renamed element: &apos;FirstActivity.Graph.java&apos;" description="Rename compilation unit &apos;bfs.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;FirstActivity{bfs.java" name="Graph.java" references="false" stamp="1649689822701" version="1.0"/>
+</session>
